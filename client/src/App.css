@@ -1,0 +1,172 @@
+.frontPage{
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: block;
+  
+}
+body{
+  background-color: bisque;
+}
+.inpUsername{
+  padding:1vh;
+  color:brown;
+  background-color: rgb(233, 197, 154);
+  border: 1px solid brown;
+  margin: 1vh;
+  font-size: larger;
+  font-weight: bold;
+}
+.inpPassword{
+  padding:1vh;
+  color:brown;
+  background-color: rgb(233, 197, 154);
+  border: 1px solid brown;
+  margin-top: 1vh;
+  font-size: larger;
+  font-weight: bold;
+}
+.submitBtn{
+  padding:1vh;
+  padding-left: 6vh;
+  padding-right: 6vh;
+  color:brown;
+  font-weight: bolder;
+  font-size: large;
+  background-color: beige;
+  border: 1px solid brown;
+  margin: 2vh;
+}
+.showBtn{
+  padding-top: 1.7vh;
+  padding-bottom: 1vh;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  color:brown;
+  background-color: rgb(233, 197, 154);
+  border: 1px solid brown;
+}
+.outpassTitle{
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  color: brown;
+  margin-bottom: 10vh;
+}
+.table{
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  color: brown;
+  margin: 5vw;
+  display: block;
+ 
+}
+
+.outpassInput{
+  padding:1vh;
+  color:brown;
+  background-color: rgb(233, 197, 154);
+  border: 1px solid brown;
+  margin-top: 1vh;
+  font-size: large;
+  font-weight: bold;
+  margin :0.5vw;
+  
+}
+.navbar{
+  background-color: rgb(58, 53, 53);
+  text-decoration: none;
+  display: flex;
+  height: 5vh;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+}
+.navbar-element{
+  color:white;
+  padding:5vh;
+}
+.red{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: inline-block;
+ 
+  border: 2px solid black;
+  margin:10vh;
+  background-color: rgb(233, 118, 118);
+  border-radius: 30px;
+}
+.green{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: inline-block;
+ 
+  border: 2px solid black;
+  margin:10vh;
+  background-color: rgb(167, 229, 105);
+  border-radius: 30px;
+}
+.default{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+   
+    border: 2px solid black;
+    margin:10vh;
+    background-color: beige;
+    border-radius: 30px;
+  
+}
+.outpass-data{
+  margin:3vh;
+  font-weight: bolder;
+}
+.outpass-heading{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.outpass-approve{
+  padding:1.5vh;
+  background-color: greenyellow;
+  /* border: 1px solid black; */
+  border:none;
+  border-radius: 20px;
+  margin:5px
+}
+.outpass-not-approve{
+  padding:1.5vh;
+  background-color: red;
+  color: aliceblue;
+  /* border: 1px solid black; */
+  border:none;
+  border-radius: 20px;
+  margin:5px
+}
+.main-dashboard{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(190, 134, 108);
+}
+.dashboard{
+  text-decoration: none;
+  display:flex;
+}
+.dashboard-elements{
+  text-decoration: none;
+  padding : 1.5vh;
+  margin-left: 3vh;
+  margin-right: 3vh;
+}
